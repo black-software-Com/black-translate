@@ -13,6 +13,7 @@
 :-----:|:-------:|:-------:|:------:|:------:|
 [Black-Translate](https://github.com/black-software-com/black-translate) | v1.0 | ✅ | ✅ | ✅ |
 <br>
+
 ---
 ## Installing:
 **Installing For Linux And MacOS**
